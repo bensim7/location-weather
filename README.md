@@ -26,7 +26,7 @@
 1. cd to the root folder
    cd location-weather-ben
 
-2. Install dependecies
+2. Install dependencies
    npm install
 
 3. Create a .env file in the root directory and add the following:
